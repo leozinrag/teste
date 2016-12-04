@@ -1,12 +1,10 @@
 ***
 
-#Informações sobre o Gollum
+#ISP Flex
 
-[Instalação](https://github.com/gollum/gollum) do Gollum.
-
-Informações úteis sobre [comandos de edição](https://github.com/gollum/gollum/wiki).
-
-Informações relevantes serão adicionadas em breve.
+[Site](http://ispflex.com)
+[Facebook](https://www.facebook.com/ispflex)
+[LinkedIn](https://www.linkedin.com/company/isp-flex)
 
 ![ISPFlex](https://pbs.twimg.com/profile_images/647043081477427200/fuqngADE.png)
 
