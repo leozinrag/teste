@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-#Teste
-=======
-Welcome to the teste wiki!
->>>>>>> f1bb51a88b309055d1e9c8ccc9942a1c48b6f65b
+***
+
+#Básico do Gollum
+Informações úteis sobre comandos de edição nesse [link](https://github.com/gollum/gollum/wiki).
+
+Informações relevantes serão adicionadas em breve.
+
+![ISPFlex](https://pbs.twimg.com/profile_images/647043081477427200/fuqngADE.png)
+
+***
