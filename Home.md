@@ -1,7 +1,10 @@
 ***
 
-#Básico do Gollum
-Informações úteis sobre comandos de edição nesse [link](https://github.com/gollum/gollum/wiki).
+#Informações sobre o Gollum
+
+[Instalação](https://github.com/gollum/gollum) do Gollum.
+
+Informações úteis sobre [comandos de edição](https://github.com/gollum/gollum/wiki).
 
 Informações relevantes serão adicionadas em breve.
 
