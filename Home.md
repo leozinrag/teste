@@ -1,6 +1,6 @@
 ***
 
-#ISP Flex - WikiFlex
+#ISP Flex - Wiki
 
 ###[Site](http://ispflex.com)
 
